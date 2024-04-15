@@ -1,2 +1,1 @@
-# UAGC
-UAGC auto updater
+2.8.9
